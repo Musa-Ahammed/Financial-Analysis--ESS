@@ -1,3 +1,4 @@
 # Financial-Analysis--ESS
 Will be added soon.
-<img width="1180" height="494" alt="image" src="https://github.com/user-attachments/assets/17c19117-e9b6-4fb5-95b3-b4477d6f6a21" />
+<img width="1182" height="495" alt="image" src="https://github.com/user-attachments/assets/041cf700-81ab-4edd-a3f8-eff5ca4cb8d6" />
+
